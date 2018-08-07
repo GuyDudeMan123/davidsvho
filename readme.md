@@ -1,1 +1,3 @@
-First git project
+Firstgit project
+
+and now we have 3 lines
